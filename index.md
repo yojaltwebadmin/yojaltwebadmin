@@ -1,4 +1,4 @@
-## Yokohama JALT
+# Yokohama JALT
 
 * [Upcoming Events](https://jalt.org/groups/chapters/yokohama)
 * [Previous Events](PreviousEvents.PDF)
