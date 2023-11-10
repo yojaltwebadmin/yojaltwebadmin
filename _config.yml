@@ -1,4 +1,4 @@
-remote_theme: pages-themes/modernist@v0.2.0
+theme: modernist
 show_downloads: [false]
 title: [Yokohama JALT]
 description: [About the Yokohama Chapter of NPO JALT]
