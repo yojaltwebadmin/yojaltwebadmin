@@ -1,5 +1,6 @@
 <img align="center" src="images/banner.jpg">
 
+
 * [Upcoming Events](https://jalt.org/groups/chapters/yokohama)
 * [Previous Events](previousevents)
 * [Publications](publications)
