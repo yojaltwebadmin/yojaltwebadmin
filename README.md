@@ -1,1 +1,1 @@
-# Landing page for the Yokohama branch of JALT 
+# Landing page for the Yokohama branch of JALT  
