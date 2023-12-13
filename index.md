@@ -2,7 +2,8 @@
 
 # Welcome!
 
-## Yokohama Chapter, Japan Association for Language Teaching (全国言語教育学会)
+## Yokohama Chapter
+## Japan Association for Language Teaching (全国言語教育学会)
 
 Thank you for visiting our page!
 We have moved. Please click [HERE](https://jalt.org/groups/chapters/yokohama) to visit our new page.
