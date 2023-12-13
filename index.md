@@ -1,4 +1,4 @@
-<img align="center" src="images/banner.jpg">
+<img align="center" src="images/banner.png">
 
 # Welcome!
 
