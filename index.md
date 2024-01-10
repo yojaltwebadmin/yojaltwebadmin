@@ -3,6 +3,7 @@
 # Welcome!
 
 ## Yokohama Chapter
+
 ## Japan Association for Language Teaching (全国言語教育学会)
 
 Thank you for visiting our page!
