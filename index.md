@@ -2,6 +2,8 @@
 
   <h1 style="font-size: 36px; margin-bottom: 20px; color: #159957;">
   Welcome to Yokohama JALT
+  <img src="images/logo.png" 
+       style="height: 32px; vertical-align: middle; margin-left: 10px;">
 </h1>
 
   <a href="https://jalt.org/groups/chapters/yokohama"
