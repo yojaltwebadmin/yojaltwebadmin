@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 show_downloads: false
 title: Yokohama JALT
-description: Welcome to the Yokohama Chapter of the Japan Association for Language Teaching (全国言語教育学会)
-Please click [HERE](https://jalt.org/groups/chapters/yokohama) to visit our JALT affiliated page and see upcoming events.
-github:
+description: Welcome to the Yokohama Chapter of the Japan Association for Language Teaching (全国言語教育学会) <br>
+<a href="https://jalt.org/groups/chapters/yokohama"> Please click here to visit our JALT affiliated page and see upcoming events.</a>
   is_project_page: false
