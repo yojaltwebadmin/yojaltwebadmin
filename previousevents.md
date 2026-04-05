@@ -13,7 +13,8 @@
 
 <h2 style="margin-top: 30px; color: #159957;">2026 Events</h2>
 [March MyShare Event](https://jalt.org/event/yokohama/yokohama-jalt-my-share/)
-# Previous Events
+
+<h2 style="margin-top: 30px; color: #159957;">Previous Events</h2>
 
 * [PDF of events from 2016-2023](otherfiles/PreviousEvents.pdf)
 * [Events from 2007](https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2007)
