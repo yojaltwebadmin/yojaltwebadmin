@@ -12,3 +12,16 @@ Speakers also have the opportunity to publish their work in a special YoJALT My 
 * [Contact us by email](https://jalt.org/email/node/36/field_group_email)
 * Follow us on [Facebook](https://www.facebook.com/YoJALTbr), or using our [email list](https://mailchi.mp/841ad2c9e600/signupyojalt)
 
+<div style="text-align: center; margin-top: 20px;">
+  <a href="mailto:your@email.com" style="background-color: #007BFF; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
+    Email Us
+  </a>
+
+  <a href="https://facebook.com/yourpage" style="background-color: #1877F2; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
+    Facebook
+  </a>
+
+  <a href="https://your-email-list-link.com" style="background-color: #28A745; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
+    Join Email List
+  </a>
+</div>
