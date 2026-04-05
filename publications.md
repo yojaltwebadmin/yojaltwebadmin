@@ -1,3 +1,15 @@
+<div style="margin-top: 20px; margin-left: 10px;">
+
+  <a href="index.html"
+     style="display: inline-block; padding: 8px 16px;
+            background-color: #159957; color: white;
+            text-decoration: none; border-radius: 4px;
+            font-size: 14px;">
+    ← Back to Home
+  </a>
+
+</div>
+
 # Publications
 
 This page collects publications that Yokohama JALT has produced in collaboration with Accents Asia (2015-Present), and previously, the Journal of Saitama City Educators (2012-2018) collecting short practical articles based on our two annual My Shares. If you would like to publish in a future issue, please sign up to present at one of these events – call for presenters goes out on Facebook and our mailing list – subscribe using the links on the main page to stay informed!
