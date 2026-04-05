@@ -35,36 +35,33 @@ Speakers also have the opportunity to publish their work in a special YoJALT My 
 
 <div style="text-align: center; margin-top: 20px;">
 
-  <a href="https://jalt.org/groups/chapters/yokohama" target="_blank"
-     style="display: inline-block; padding: 12px 26px; margin: 8px;
-            background-color: #2c7be5; color: white;
-            text-decoration: none; border-radius: 6px;
-            font-size: 15px;">
-    Official JALT Page
-  </a>
-
   <a href="https://www.facebook.com/YoJALT" target="_blank"
-     style="display: inline-block; padding: 12px 26px; margin: 8px;
-            background-color: #1877F2; color: white;
-            text-decoration: none; border-radius: 6px;
-            font-size: 15px;">
+     style="display: inline-block; padding: 12px 28px; margin: 8px;
+            background-color: #2d5f9a; color: white;
+            text-decoration: none; border-radius: 4px;
+            font-size: 15px; font-weight: 500;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     Facebook
   </a>
 
   <a href="mailto:yojaltpresident@yojalt.org"
-     style="display: inline-block; padding: 12px 26px; margin: 8px;
-            background-color: #6c757d; color: white;
-            text-decoration: none; border-radius: 6px;
-            font-size: 15px;">
+     style="display: inline-block; padding: 12px 28px; margin: 8px;
+            background-color: #5a6268; color: white;
+            text-decoration: none; border-radius: 4px;
+            font-size: 15px; font-weight: 500;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     Email Us
   </a>
 
   <a href="https://yojalt.us8.list-manage.com/subscribe?u=442e71f0713e8734324b000ca&id=dbf8d8a46b" target="_blank"
-   style="display: inline-block; padding: 12px 26px; margin: 8px;
-          background-color: #28a745; color: white;
-          text-decoration: none; border-radius: 6px;
-          font-size: 15px;">
-   Join Mailing List
-</a>
+     style="display: inline-block; padding: 12px 28px; margin: 8px;
+            background-color: #3a7d44; color: white;
+            text-decoration: none; border-radius: 4px;
+            font-size: 15px; font-weight: 500;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    Join Mailing List
+  </a>
+
+</div>
 
 </div>
