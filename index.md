@@ -34,15 +34,37 @@ We also host YoJALT My Share events, where teachers share practical ideas that c
 Speakers also have the opportunity to publish their work in a special YoJALT My Share edition of [Accents Asia](https://accentsasia.org/). This free, open-access journal provides a platform for educators across East Asia to share their ideas and research with a wider community of teachers.
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="mailto:yojaltpresident@yojalt.org" style="background-color: #007BFF; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
-    Email Us
+
+  <a href="https://jalt.org/groups/chapters/yokohama" target="_blank"
+     style="display: inline-block; padding: 12px 26px; margin: 8px;
+            background-color: #2c7be5; color: white;
+            text-decoration: none; border-radius: 6px;
+            font-size: 15px;">
+    Official JALT Page
   </a>
 
-  <a href="[[https://facebook.com/yourpage](https://www.facebook.com/YoJALT)](https://www.facebook.com/YoJALT)" style="background-color: #1877F2; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
+  <a href="https://www.facebook.com/YoJALT" target="_blank"
+     style="display: inline-block; padding: 12px 26px; margin: 8px;
+            background-color: #1877F2; color: white;
+            text-decoration: none; border-radius: 6px;
+            font-size: 15px;">
     Facebook
   </a>
 
-  <a href="https://your-email-list-link.com" style="background-color: #28A745; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
-    Join Email List
+  <a href="mailto:yojaltpresident@yojalt.org"
+     style="display: inline-block; padding: 12px 26px; margin: 8px;
+            background-color: #6c757d; color: white;
+            text-decoration: none; border-radius: 6px;
+            font-size: 15px;">
+    Email Us
   </a>
+
+  <a href="#" 
+     style="display: inline-block; padding: 12px 26px; margin: 8px;
+            background-color: #28a745; color: white;
+            text-decoration: none; border-radius: 6px;
+            font-size: 15px;">
+    Join Mailing List
+  </a>
+
 </div>
