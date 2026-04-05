@@ -38,7 +38,7 @@ Speakers also have the opportunity to publish their work in a special YoJALT My 
     Email Us
   </a>
 
-  <a href="https://facebook.com/yourpage" style="background-color: #1877F2; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
+  <a href="[https://facebook.com/yourpage](https://www.facebook.com/YoJALT)" style="background-color: #1877F2; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
     Facebook
   </a>
 
