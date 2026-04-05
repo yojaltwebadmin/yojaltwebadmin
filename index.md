@@ -34,11 +34,11 @@ We also host YoJALT My Share events, where teachers share practical ideas that c
 Speakers also have the opportunity to publish their work in a special YoJALT My Share edition of [Accents Asia](https://accentsasia.org/). This free, open-access journal provides a platform for educators across East Asia to share their ideas and research with a wider community of teachers.
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="mailto:your@email.com" style="background-color: #007BFF; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
+  <a href="mailto:yojaltpresident@yojalt.org" style="background-color: #007BFF; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
     Email Us
   </a>
 
-  <a href="[https://facebook.com/yourpage](https://www.facebook.com/YoJALT)" style="background-color: #1877F2; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
+  <a href="[[https://facebook.com/yourpage](https://www.facebook.com/YoJALT)](https://www.facebook.com/YoJALT)" style="background-color: #1877F2; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; margin: 5px; display: inline-block;">
     Facebook
   </a>
 
