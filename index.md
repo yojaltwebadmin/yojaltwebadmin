@@ -1,4 +1,6 @@
-<img src="images/banner.png" style="display: block; margin: 0 auto;">
+<div style="text-align: center;">
+  <img src="images/banner.png">
+</div>
 
 # Welcome!
 
