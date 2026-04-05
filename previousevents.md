@@ -12,7 +12,13 @@
 </div>
 
 <h2 style="margin-top: 30px; color: #159957;">2026 Events</h2>
-* [March MyShare Event](https://jalt.org/event/yokohama/yokohama-jalt-my-share/)
+<ul>
+  <li>
+    <a href="https://jalt.org/event/yokohama/yokohama-jalt-my-share/">
+      March MyShare Event
+    </a>
+  </li>
+</ul>
 
 <h2 style="margin-top: 30px; color: #159957;">Previous Events</h2>
 
