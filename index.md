@@ -8,7 +8,6 @@ We also host YoJALT My Share events, where teachers share practical ideas that c
 
 Speakers also have the opportunity to publish their work in a special YoJALT My Share edition of [Accents Asia](https://accentsasia.org/). This free, open-access journal provides a platform for educators across East Asia to share their ideas and research with a wider community of teachers.
 
-We have moved. Please click [HERE](https://jalt.org/groups/chapters/yokohama) to visit our new page.
 
 * [Contact us by email](https://jalt.org/email/node/36/field_group_email)
 * Follow us on [Facebook](https://www.facebook.com/YoJALTbr), or using our [email list](https://mailchi.mp/841ad2c9e600/signupyojalt)
