@@ -1,6 +1,6 @@
 # Publications
 
-This page collects publications that Yokohama JALT has produced in collaboration with Accents Asia and the Journal of Saitama City Educators (2012-2018) collecting short practical articles based on our two annual My Shares (Tech in June, general in December). If you would like to publish in a future issue, please sign up to present at one of these events – call for presenters goes out on Facebook and our mailing list – subscribe using the links on the main page to stay informed!
+This page collects publications that Yokohama JALT has produced in collaboration with Accents Asia, and previously, the Journal of Saitama City Educators (2012-2018) collecting short practical articles based on our two annual My Shares. If you would like to publish in a future issue, please sign up to present at one of these events – call for presenters goes out on Facebook and our mailing list – subscribe using the links on the main page to stay informed!
 
 ## Accents Asia
 
