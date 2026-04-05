@@ -21,6 +21,13 @@
 </ul>
 <ul>
   <li>
+    <a href="https://jalt.org/2026/02/22/theron-muller-streamlining-research-and-teaching-practices-february-22nd-2026/">
+      February: Theron Muller – Streamlining Research and Teaching Practices
+    </a>
+  </li>
+</ul>
+<ul>
+  <li>
     <a href="https://jalt.org/2026/01/25/enhancing-oral-presentation-skills-for-students-with-lower-english-proficiency-january-25th-2026/">
       January: Sachi Oshima – Enhancing Oral Presentation Skills for Students with Lower English Proficiency
     </a>
