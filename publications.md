@@ -5,7 +5,7 @@ This page collects publications that Yokohama JALT has produced in collaboration
 ## Accents Asia
 
 * If we’re the most recent to publish an issue, our issue is [here](https://www.accentsasia.org/current-issue/)
-* All previous issues are on [this page](http://www.accentsasia.org/previous-issues/). Scroll down to find:
+* All previous issues are on [this page](http://www.accentsasia.org/previous-issues/).
 
 ## Journal of Saitama City Educators
 
