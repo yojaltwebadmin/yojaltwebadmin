@@ -15,14 +15,14 @@
 <ul>
   <li>
     <a href="https://jalt.org/event/yokohama/yokohama-jalt-my-share/">
-      March MyShare Event
+      March: YoJALT MyShare
     </a>
   </li>
 </ul>
 <ul>
   <li>
     <a href="https://jalt.org/2026/01/25/enhancing-oral-presentation-skills-for-students-with-lower-english-proficiency-january-25th-2026/">
-      Sachi Oshima – Enhancing Oral Presentation Skills for Students with Lower English Proficiency – January 25th 2026
+      January: Sachi Oshima – Enhancing Oral Presentation Skills for Students with Lower English Proficiency
     </a>
   </li>
 </ul>
