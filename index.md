@@ -24,7 +24,7 @@
 
 </div>
 <div style="text-align: center;">
-  <img src="images/banner.png">
+ <img src="images/banner.png" style="margin-top: 30px;">
 </div>
 
 We are an active and welcoming chapter that regularly hosts in-person and hybrid events, conveniently located between Yokohama and Tokyo. We invite a wide range of esteemed speakers from across the Kanto area and sometimes beyond, creating valuable opportunities for professional development and connection.
