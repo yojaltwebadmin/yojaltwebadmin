@@ -43,8 +43,8 @@ We are an active and welcoming chapter that regularly hosts in-person and hybrid
 </div>
 We also host YoJALT My Share events, where teachers share practical ideas that can be quickly and easily implemented in the classroom. These sessions are open to both experienced and emerging educators from universities, schools, eikaiwa, and independent contexts, developing a supportive and collaborative environment. After the events, participants often continue the conversation at a nearby café or pub, building connections and expanding their professional networks.
 
-<h2 style="text-align: center; margin-top: 50px; margin-bottom: 20px;
-           font-size: 26px; font-weight: 600; color: #159957;">
+<h2 style="text-align: center; font-size: 26px; font-weight: 600; color: #159957; margin: 50px 0 20px 0;">
+  <img src="images/article.png" style="height: 36px; vertical-align: middle; margin-right: 10px;">
   Publishing Opportunities
 </h2>
 Speakers also have the opportunity to publish their work in a special YoJALT My Share edition of [Accents Asia](https://accentsasia.org/). This free, open-access journal provides a platform for educators across East Asia to share their ideas and research with a wider community of teachers.
