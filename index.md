@@ -74,4 +74,22 @@ Speakers also have the opportunity to publish their work in a special YoJALT My 
     Join Mailing List
   </a>
 
+  <a href="previousevents.html"
+   style="display: inline-block; padding: 12px 28px; margin: 8px;
+          background-color: #6f42c1; color: white;
+          text-decoration: none; border-radius: 4px;
+          font-size: 15px; font-weight: 500;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  Previous Events
+</a>
+
+<a href="publications.html"
+   style="display: inline-block; padding: 12px 28px; margin: 8px;
+          background-color: #d39e00; color: white;
+          text-decoration: none; border-radius: 4px;
+          font-size: 15px; font-weight: 500;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  Publications
+</a>
+
 </div>
