@@ -14,4 +14,10 @@
 # Previous Events
 
 * [PDF of events from 2016-2023](otherfiles/PreviousEvents.pdf)
-* [2001](https://hosted.jalt.org/calendar/archive?page=group&id=40))
+* [Events from 2007](https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2007)
+* [Events from 2006](https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2006)
+* [Events from 2005](https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2005)
+* [Events from 2004](https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2004)
+* [Events from 2003](https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2003)
+* [Events from 2002](https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2002)
+* [Events from 2001](https://hosted.jalt.org/calendar/archive?page=group&id=40)
