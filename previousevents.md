@@ -19,8 +19,6 @@
     </a>
   </li>
 </ul>
-<h2>2026 Events</h2>
-
 <ul>
   <li>
     <a href="https://jalt.org/2026/01/25/enhancing-oral-presentation-skills-for-students-with-lower-english-proficiency-january-25th-2026/">
