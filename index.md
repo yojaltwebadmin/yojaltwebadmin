@@ -37,9 +37,10 @@ We are an active and welcoming chapter that regularly hosts in-person and hybrid
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 50px 0 20px 0;">
   <img src="images/talk.png" style="height: 36px;">
-  <h2 style="font-size: 26px; font-weight: 600; color: #159957; margin: 0;">
-    YoJALT My Share Events
-  </h2>
+<h2 style="text-align: center; font-size: 26px; font-weight: 600; color: #159957; margin: 50px 0 20px 0;">
+  <img src="images/talk.png" style="height: 36px; vertical-align: middle; margin-right: 10px;">
+  YoJALT My Share Events
+</h2>
 </div>
 We also host YoJALT My Share events, where teachers share practical ideas that can be quickly and easily implemented in the classroom. These sessions are open to both experienced and emerging educators from universities, schools, eikaiwa, and independent contexts, developing a supportive and collaborative environment. After the events, participants often continue the conversation at a nearby café or pub, building connections and expanding their professional networks.
 
