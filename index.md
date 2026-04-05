@@ -29,10 +29,17 @@
  <img src="images/banner.png" style="margin-top: 30px;">
 </div>
 
-<h2 style="text-align: center; margin-top: 50px; margin-bottom: 20px;
-           font-size: 26px; font-weight: 600; color: #159957;">
-  Guest Speakers
-</h2>
+<div style="display: flex; align-items: center; justify-content: center;
+            margin-top: 50px; margin-bottom: 20px;">
+
+  <img src="images/speaker.png"
+       style="height: 40px; margin-right: 12px;">
+
+  <h2 style="font-size: 26px; font-weight: 600; color: #159957; margin: 0;">
+    Guest Speakers
+  </h2>
+
+</div>
 We are an active and welcoming chapter that regularly hosts in-person and hybrid events, conveniently located between Yokohama and Tokyo. We invite a wide range of esteemed speakers from across the Kanto area and sometimes beyond, creating valuable opportunities for professional development and connection.
 
 <h2 style="text-align: center; margin-top: 50px; margin-bottom: 20px;
