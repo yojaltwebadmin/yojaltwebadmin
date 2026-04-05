@@ -18,7 +18,7 @@
      onmouseover="this.style.backgroundColor='#1a5fd1'"
      onmouseout="this.style.backgroundColor='#2c7be5'">
      
-     Visit Our Official JALT Page
+     Visit Our Official JALT-affiliated Page For Events and More
      
   </a>
 
