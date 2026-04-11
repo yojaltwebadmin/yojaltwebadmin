@@ -122,7 +122,7 @@
   <div class="event-card">
     📄 2013 – Issue 3(2)<br>
     <a href="https://sce.john-finucane.com/wp-content/uploads/2019/12/JSCE_3_2.pdf" target="_blank">JSCE Archive</a> |
-    <a href="journalissues/JSCE2013-32" target="_blank">YoJALT Backup</a> (10MB, loads slowly)
+    <a href="journalissues/JSCE2013-32.pdf" target="_blank">YoJALT Backup</a>
   </div>
 
   <!-- 2015 -->
