@@ -92,7 +92,7 @@
 
   <div class="event-card">
     📚 All previous issues are on 
-    <a href="https://www.accentsasia.org/previous-issues/" target="_blank" rel="noopener noreferrer">this page</a>
+    <a href="https://www.accentsasia.org/previous-issues" target="_blank" rel="noopener noreferrer">this page</a>
   </div>
 
 </div>
