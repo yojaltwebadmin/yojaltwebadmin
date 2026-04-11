@@ -86,7 +86,6 @@
   <!-- 2018 -->
   <div class="event-card">
     📄 2018<br>
-    Not in JSCE Archive<br>
     <a href="journalissues/JSCE2018-64.pdf" target="_blank">YoJALT Backup</a>
   </div>
 
