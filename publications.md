@@ -6,15 +6,14 @@
 
 <h2 class="section-title">Publications</h2>
 
-<div class="container" style="margin-bottom: 30px;">
+<div class="container" style="margin-bottom: 30px; line-height: 1.6;">
 
-  <p style="text-align: center; line-height: 1.6;">
-    This page collects publications produced by Yokohama JALT in collaboration with Accents Asia (2015–Present),
-    and the Journal of Saitama City Educators (2012–2018).
+  <p>
+    This page collects publications that Yokohama JALT has produced in collaboration with Accents Asia (2015-Present), and previously, the Journal of Saitama City Educators (2012-2018) collecting short practical articles based on our two annual My Shares.
   </p>
 
-  <p style="text-align: center; line-height: 1.6;">
-    If you would like to publish, please consider presenting at a future My Share event.
+  <p>
+    If you would like to publish in a future issue, please sign up to present at one of these events – call for presenters goes out on Facebook and our mailing list – subscribe using the links on the main page to stay informed!
   </p>
 
 </div>
@@ -24,25 +23,29 @@
 
 <div class="container" style="margin-bottom: 40px;">
 
-  <a href="https://www.accentsasia.org/current-issue/" target="_blank" rel="noopener noreferrer"
-     class="event-card">
-    📘 View Current Issue
-  </a>
+  <div class="event-card">
+    📘 If we’re the most recent to publish an issue, our issue is 
+    <a href="https://www.accentsasia.org/current-issue/" target="_blank">here</a>
+  </div>
 
-  <a href="http://www.accentsasia.org/previous-issues/" target="_blank" rel="noopener noreferrer"
-     class="event-card">
-    📚 Browse Previous Issues
-  </a>
+  <div class="event-card">
+    📚 All previous issues are on 
+    <a href="http://www.accentsasia.org/previous-issues/" target="_blank">this page</a>
+  </div>
 
 </div>
 
 <!-- JSCE -->
 <h2 class="section-title">Journal of Saitama City Educators</h2>
 
-<div class="container">
+<div class="container" style="line-height: 1.6;">
 
-  <p style="text-align: center; margin-bottom: 20px; line-height: 1.6;">
-    Special issues based on My Share presentations (2012–2018).
+  <p>
+    Between 2012 and 2018, Yokohama JALT collaborated with the Journal of Saitama City Educators to produce a special issues based on presentations at the annual December My Share. This Journal has now closed.
+  </p>
+
+  <p>
+    Below are links to those issues where they are now archived at editor John Finucane’s website, and as a backup, copies we have archived here at yojalt.org
   </p>
 
   <!-- 2012 -->
@@ -56,7 +59,7 @@
   <div class="event-card">
     📄 2013 – Issue 3(2)<br>
     <a href="https://sce.john-finucane.com/wp-content/uploads/2019/12/JSCE_3_2.pdf" target="_blank">JSCE Archive</a> |
-    <a href="journalissues/JSCE2013-32" target="_blank">YoJALT Backup (10MB, slow)</a>
+    <a href="journalissues/JSCE2013-32" target="_blank">YoJALT Backup</a> (10MB, loads slowly)
   </div>
 
   <!-- 2015 -->
@@ -82,7 +85,8 @@
 
   <!-- 2018 -->
   <div class="event-card">
-    📄 2018 – Final Issue<br>
+    📄 2018<br>
+    Not in JSCE Archive<br>
     <a href="journalissues/JSCE2018-64.pdf" target="_blank">YoJALT Backup</a>
   </div>
 
