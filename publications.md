@@ -120,7 +120,7 @@
   </a>
 
   <a href="journalissues/JSCE2018-64.pdf" target="_blank" class="event-card">
-    📄 2018 – Issue 5(4)
+    📄 2018 – Issue 6(4)
   </a>
 
 </div>
