@@ -14,9 +14,7 @@
 <h2 style="margin-top: 30px; color: #159957;">2026 Events</h2>
 <ul>
   <li>
-    <a href="https://jalt.org/event/yokohama/yokohama-jalt-my-share/">
-            target="_blank"
-       rel="noopener noreferrer">
+    <a href="https://jalt.org/event/yokohama/yokohama-jalt-my-share/" target="_blank" rel="noopener noreferrer">
       March: YoJALT MyShare
     </a>
   </li>
