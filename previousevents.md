@@ -25,8 +25,7 @@
      onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)'"
      onmouseout="this.style.transform='none'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'">
      
-    <strong>📅 March</strong><br>
-    YoJALT MyShare
+    📅 March – YoJALT MyShare
 
   </a>
 
@@ -40,8 +39,7 @@
      onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)'"
      onmouseout="this.style.transform='none'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'">
      
-    <strong>📅 February</strong><br>
-    Theron Muller – Streamlining Research and Teaching Practices
+    📅 February – Theron Muller – Streamlining Research and Teaching Practices
 
   </a>
 
@@ -55,8 +53,7 @@
      onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)'"
      onmouseout="this.style.transform='none'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'">
      
-    <strong>📅 January</strong><br>
-    Sachi Oshima – Enhancing Oral Presentation Skills for Students with Lower English Proficiency
+    📅 January – Sachi Oshima – Enhancing Oral Presentation Skills for Students with Lower English Proficiency
 
   </a>
 
@@ -108,6 +105,19 @@
 
   </a>
 
-  <!-- Repeat same style for remaining years -->
+  <a href="https://hosted.jalt.org/calendar/archive?page=group&id=40&year=2006" target="_blank" rel="noopener noreferrer"
+     style="display: block; padding: 14px; margin: 10px 0;
+            background-color: #ffffff; border-radius: 8px;
+            text-decoration: none; color: #333;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            transition: 0.2s;"
+     onmouseover="this.style.backgroundColor='#f1f1f1'"
+     onmouseout="this.style.backgroundColor='#ffffff'">
+     
+    📅 Events from 2006
+
+  </a>
+
+  <!-- Repeat same pattern for remaining years -->
 
 </div>
