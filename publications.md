@@ -104,7 +104,7 @@
   </a>
 
   <a href="journalissues/JSCE2013-32.pdf" target="_blank" class="event-card">
-    📄 2013 – Issue 3(2) (10MB)
+    📄 2013 – Issue 3(2)
   </a>
 
   <a href="journalissues/JSCE2015-53.pdf" target="_blank" class="event-card">
@@ -120,7 +120,7 @@
   </a>
 
   <a href="journalissues/JSCE2018-64.pdf" target="_blank" class="event-card">
-    📄 2018 – Final Issue
+    📄 2018 – Issue 5(4)
   </a>
 
 </div>
