@@ -7,6 +7,7 @@
 </h1>
 
   <a href="https://jalt.org/groups/chapters/yokohama"
+    target="_blank"
      style="
        display: inline-block;
        padding: 12px 24px;
