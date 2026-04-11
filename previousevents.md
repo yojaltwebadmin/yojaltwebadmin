@@ -15,7 +15,8 @@
 <ul>
   <li>
     <a href="https://jalt.org/event/yokohama/yokohama-jalt-my-share/">
-      target="_blank"
+            target="_blank"
+       rel="noopener noreferrer">
       March: YoJALT MyShare
     </a>
   </li>
