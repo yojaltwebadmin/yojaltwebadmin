@@ -78,7 +78,7 @@
     📘 View Current Issue
   </a>
 
-  <a href="https://www.accentsasia.org/previous-issues/" target="_blank" rel="noopener noreferrer"
+  <a href="https://accentsasia.org/previous-issues" target="_blank" rel="noopener noreferrer"
      class="event-card">
     📚 Browse Previous Issues
   </a>
