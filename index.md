@@ -52,7 +52,7 @@ Speakers also have the opportunity to publish their work in a special YoJALT My 
 
 <div style="text-align: center; margin-top: 20px;">
 
-  <a href="https://www.facebook.com/YoJALT](https://www.facebook.com/groups/1475598610886199" target="_blank"
+  <a href="https://www.facebook.com/groups/1475598610886199" target="_blank"
      style="display: inline-block; padding: 12px 28px; margin: 8px;
             background-color: #2d5f9a; color: white;
             text-decoration: none; border-radius: 4px;
