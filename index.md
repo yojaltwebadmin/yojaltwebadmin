@@ -20,7 +20,7 @@
    ">
    Visit Our Official JALT-affiliated Page for Future Events and More
 </a>
-
+&nbsp;
 <a href="https://jalt.org/2026/04/30/call-for-papers-2027-scenario-conference-at-soka-university-march-24-27-2027/"
    target="_blank"
    style="
