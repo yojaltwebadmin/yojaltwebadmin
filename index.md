@@ -9,40 +9,30 @@
 <a href="https://jalt.org/groups/chapters/yokohama"
    target="_blank"
    style="
-     display: inline-block;
-     padding: 12px 24px;
-     font-size: 16px;
-     color: white;
-     background-color: #2c7be5;
-     text-decoration: none;
-     border-radius: 8px;
-     transition: 0.3s;
-     margin-right: 12px; /* 👈 spacing */
-   "
-   onmouseover="this.style.backgroundColor='#1a5fd1'"
-   onmouseout="this.style.backgroundColor='#2c7be5'">
-
+     display:inline-block;
+     padding:12px 24px;
+     font-size:16px;
+     color:white;
+     background-color:#2c7be5;
+     text-decoration:none;
+     border-radius:8px;
+     margin-right:12px;
+   ">
    Visit Our Official JALT-affiliated Page for Future Events and More
-
 </a>
 
 <a href="https://jalt.org/2026/04/30/call-for-papers-2027-scenario-conference-at-soka-university-march-24-27-2027/"
    target="_blank"
    style="
-     display: inline-block;
-     padding: 12px 24px;
-     font-size: 16px;
-     color: white;
-     background-color: #28a745; /* 👈 green */
-     text-decoration: none;
-     border-radius: 8px;
-     transition: 0.3s;
-   "
-   onmouseover="this.style.backgroundColor='#1e7e34'"  <!-- darker green -->
-   onmouseout="this.style.backgroundColor='#28a745'">
-
+     display:inline-block;
+     padding:12px 24px;
+     font-size:16px;
+     color:white;
+     background-color:#28a745;
+     text-decoration:none;
+     border-radius:8px;
+   ">
    SCENARIO FORUM INTERNATIONAL CONFERENCE
-
 </a>
 
 </div>
