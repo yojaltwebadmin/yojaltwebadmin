@@ -17,7 +17,7 @@
 <a href="https://jalt.org/2026/04/30/call-for-papers-2027-scenario-conference-at-soka-university-march-24-27-2027/"
    target="_blank"
    style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#28a745; text-decoration:none; border-radius:8px;">
-   SCENARIO FORUM INTERNATIONAL CONFERENCE
+   CALL FOR PAPERS: SCENARIO FORUM INTERNATIONAL CONFERENCE
 </a>
 
 </div>
