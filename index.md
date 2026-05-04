@@ -14,7 +14,7 @@
 
 <br><br>
 
-<a href="https://jalt.org"
+<a href="https://jalt.org/2026/05/04/call-for-applications-present-at-jalt-international-conference-2026/"
    target="_blank"
    style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px; margin-right:15px;">
    CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
