@@ -26,15 +26,6 @@
   </tr>
 </table>
 
-
-<img src="https://placeholder.com" width="20" height="1">
-
-<a href="https://jalt.org"
-   target="_blank"
-   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#28a745; text-decoration:none; border-radius:8px;">
-   CALL FOR PAPERS: SCENARIO FORUM INTERNATIONAL CONFERENCE
-</a>
-
 </div>
 <div style="text-align: center;">
  <img src="images/banner.png" style="margin-top: 30px;">
