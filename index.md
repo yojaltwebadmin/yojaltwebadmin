@@ -16,11 +16,9 @@
 
 <a href="https://jalt.org"
    target="_blank"
-   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px;">
+   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px; margin-right: 10px;">
    CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
 </a>
-
-<img src="https://placeholder.com" width="20" height="1">
 
 <a href="https://jalt.org"
    target="_blank"
