@@ -12,21 +12,21 @@
    Visit Our Official JALT-affiliated Page for Future Events and More
 </a>
 
-<br><br>
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
 
-<a href="https://jalt.org"
-   target="_blank"
-   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px; margin-right: 10px;">
-   CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
-</a>
+  <a href="https://jalt.org"
+     target="_blank"
+     style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px;">
+     CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
+  </a>
 
-<a href="https://jalt.org"
-   target="_blank"
-   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#28a745; text-decoration:none; border-radius:8px;">
-   CALL FOR PAPERS: SCENARIO FORUM INTERNATIONAL CONFERENCE
-</a>
-
+  <a href="https://jalt.org"
+     target="_blank"
+     style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#28a745; text-decoration:none; border-radius:8px;">
+     CALL FOR PAPERS: SCENARIO FORUM INTERNATIONAL CONFERENCE
+  </a>
 </div>
+
 <div style="text-align: center;">
  <img src="images/banner.png" style="margin-top: 30px;">
 </div>
