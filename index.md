@@ -14,13 +14,15 @@
 
 <br><br>
 
-<a href="https://jalt.org/2026/05/04/call-for-applications-present-at-jalt-international-conference-2026/"
+<a href="https://jalt.org"
    target="_blank"
-   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px; margin-right:15px;">
+   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px;">
    CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jalt.org/2026/04/30/call-for-papers-2027-scenario-conference-at-soka-university-march-24-27-2027/"
+
+<img src="https://placeholder.com" width="20" height="1">
+
+<a href="https://jalt.org"
    target="_blank"
    style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#28a745; text-decoration:none; border-radius:8px;">
    CALL FOR PAPERS: SCENARIO FORUM INTERNATIONAL CONFERENCE
