@@ -12,15 +12,15 @@
    Visit Our Official JALT-affiliated Page for Future Events and More
 </a>
 
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 20px;">
 
-  <a href="https://jalt.org"
+  <a href="https://jalt.org/2026/05/04/call-for-applications-present-at-jalt-international-conference-2026/"
      target="_blank"
      style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px;">
      CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
   </a>
 
-  <a href="https://jalt.org"
+  <a href="https://jalt.org/2026/04/30/call-for-papers-2027-scenario-conference-at-soka-university-march-24-27-2027/"
      target="_blank"
      style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#28a745; text-decoration:none; border-radius:8px;">
      CALL FOR PAPERS: SCENARIO FORUM INTERNATIONAL CONFERENCE
