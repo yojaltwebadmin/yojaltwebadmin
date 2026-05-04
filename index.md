@@ -6,19 +6,26 @@
        style="height: 52px; vertical-align: middle; margin-left: 10px;">
 </h1>
 
-<a href="https://jalt.org/groups/chapters/yokohama"
-   target="_blank"
-   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#2c7be5; text-decoration:none; border-radius:8px;">
-   Visit Our Official JALT-affiliated Page for Future Events and More
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://jalt.org/2026/05/04/call-for-applications-present-at-jalt-international-conference-2026/"
+         target="_blank"
+         style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px;">
+         CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
+      </a>
+    </td>
+    <td width="30"></td>
+    <td>
+      <a href="https://jalt.org/2026/04/30/call-for-papers-2027-scenario-conference-at-soka-university-march-24-27-2027/"
+         target="_blank"
+         style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#28a745; text-decoration:none; border-radius:8px;">
+         CALL FOR PAPERS: SCENARIO FORUM INTERNATIONAL CONFERENCE
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-<a href="https://jalt.org"
-   target="_blank"
-   style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#e35d5d; text-decoration:none; border-radius:8px;">
-   CALL FOR APPLICATIONS: PRESENT AT JALT INTERNATIONAL CONFERENCE 2026
-</a>
 
 <img src="https://placeholder.com" width="20" height="1">
 
