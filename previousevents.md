@@ -28,7 +28,7 @@
             transition: 0.2s;"
      onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)'"
      onmouseout="this.style.transform='none'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'">
-    📅 March – Bethany Lacy - Preparing to Prepare for Submission, Acceptance, and Rejection
+    📅 May – Bethany Lacy - Preparing to Prepare for Submission, Acceptance, and Rejection
   </a>
 
 <div style="max-width: 700px; margin: 0 auto;">
