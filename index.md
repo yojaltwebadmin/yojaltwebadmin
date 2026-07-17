@@ -34,7 +34,7 @@ We also host YoJALT My Share events, where teachers share practical ideas that c
   <img src="images/article.png" style="height: 36px; vertical-align: middle; margin-right: 10px;">
   Publishing Opportunities
 </h2>
-Speakers also have the opportunity to publish their work in a special YoJALT My Share edition of [Accents Asia](https://accentsasia.org/). This free, open-access journal provides a platform for educators across East Asia to share their ideas and research with a wider community of teachers.
+Speakers also have the opportunity to publish their work in a special YoJALT My Share edition of [Accents Asia(https://accentsasia.org/)]. This free, open-access journal provides a platform for educators across East Asia to share their ideas and research with a wider community of teachers.
 
 <div style="text-align: center; margin-top: 20px;">
 
