@@ -15,6 +15,22 @@
 
 <div style="max-width: 700px; margin: 0 auto;">
 
+ <a href="https://jalt.org/event/yokohama/more-than-storytime-interactive-read-alouds-that-spark-thinking-and-feeling/" target="_blank" rel="noopener noreferrer"
+     style="display: block;
+            padding: 16px;
+            margin: 12px 0;
+            background-color: #f9fdfb;
+            border-radius: 10px;
+            border-left: 5px solid #159957;
+            text-decoration: none;
+            color: #333;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+            transition: 0.2s;"
+     onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)'"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.1)'">
+    📅 July – Alison Hasegawa - More Than Storytime: Interactive Read-Alouds That Spark Thinking and Feeling!
+  </a>
+
   <a href="https://jalt.org/event/yokohama/preparing-to-prepare-for-submission-acceptance-and-rejection/" target="_blank" rel="noopener noreferrer"
      style="display: block;
             padding: 16px;
