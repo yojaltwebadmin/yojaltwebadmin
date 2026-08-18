@@ -31,7 +31,7 @@
     📅 July – Alison Hasegawa - More Than Storytime: Interactive Read-Alouds That Spark Thinking and Feeling!
   </a>
 
-  <a href="https://jalt.org/event/yokohama/preparing-to-prepare-for-submission-acceptance-and-rejection/" target="_blank" rel="noopener noreferrer"
+  <a href="https://jalt.org/event/yokohama/yokohama-guest-speaker/?mc_cid=6a4ed4f650&mc_eid=6705abaa26" target="_blank" rel="noopener noreferrer"
      style="display: block;
             padding: 16px;
             margin: 12px 0;
@@ -49,7 +49,7 @@
 
 <div style="max-width: 700px; margin: 0 auto;">
 
-  <a href="https://jalt.org/event/yokohama/yokohama-guest-speaker/?mc_cid=6a4ed4f650&mc_eid=6705abaa26"
+  <a href="https://jalt.org/event/yokohama/preparing-to-prepare-for-submission-acceptance-and-rejection/"
      style="display: block;
             padding: 16px;
             margin: 12px 0;
